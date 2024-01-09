@@ -1,4 +1,3 @@
-from snowflake.snowpark import Session
 from config import *
 import snowflake.connector
 import pandas as pd
